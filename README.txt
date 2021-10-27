@@ -16,4 +16,8 @@ Again some changes during the css-assignment
 >>>>>>> css-assignments
 
 
+<<<<<<< HEAD
 This is the minor changes done during branch js assignments
+=======
+This change is done during branch js assignments
+>>>>>>> js-assignments

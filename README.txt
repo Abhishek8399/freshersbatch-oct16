@@ -14,3 +14,6 @@ This is the minor change during css-assignment branch
 
 Again some changes during the css-assignment 
 >>>>>>> css-assignments
+
+
+This change is done during branch js assignments

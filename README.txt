@@ -6,4 +6,11 @@ Assignments folder contains the js Assignments, CSS Assignments, and HTML Assign
 This is some changes in html-Assignments branch 
 >>>>>>> html-assignments
 
+<<<<<<< HEAD
 Minor changes in readme file of Master branch
+=======
+
+This is the minor change during css-assignment branch 
+
+Again some changes during the css-assignment 
+>>>>>>> css-assignments
